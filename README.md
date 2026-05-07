@@ -4,7 +4,7 @@
 
 ### **On-Premise RAG / Document AI Engineer**
 
-> 11년간 삼성·현대 B2B 상용 제품에서 단련된 시스템 안정성이 RAG 프로덕션의 지지대입니다.
+>
 
 [![Email](https://img.shields.io/badge/Email-basilsangwon%40naver.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:basilsangwon@naver.com)
 ![Location](https://img.shields.io/badge/Location-경기%20화성시-blue?style=flat-square)
@@ -93,7 +93,7 @@ BM25 + Vector(ChromaDB) + Graph(Neo4j) RRF 융합, 5홉 관계 추론. LangChain
 
 ## 📬 Contact
 
-- 📧 **basilsangwon@naver.com**
+- 📧 **basileus1119@gmail.com**
 - 📍 경기 화성시
 - 💼 LinkedIn: *프로필 정비 중*
 
